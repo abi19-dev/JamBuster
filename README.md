@@ -57,6 +57,8 @@ Patch-evi ne donose odluke, ali direktno utiču na ponašanje agenata.
 
 ---
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1031c61d-91ba-4ab9-aa3c-a69b8b46c289" />
+
 ## 🎛️ Kontrole (Slideri i prekidači)
 
 | Kontrola | Opis |
@@ -68,6 +70,8 @@ Patch-evi ne donose odluke, ali direktno utiču na ponašanje agenata.
 | `max-green` | Maksimalno trajanje zelene faze |
 | `queue-threshold` | Prag osjetljivosti adaptivnog algoritma |
 | `adaptive?` | Uključuje / isključuje adaptivni režim |
+
+<img width="450" height="662" alt="image" src="https://github.com/user-attachments/assets/d275ce93-c798-45c3-a9d8-d90cd81ae1db" />
 
 ---
 
@@ -83,6 +87,9 @@ Patch-evi ne donose odluke, ali direktno utiču na ponašanje agenata.
 - **Average wait** – promjena prosječnog vremena čekanja kroz vrijeme
 - **Queues** – poređenje dužina redova u oba smjera
 
+<img width="698" height="526" alt="image" src="https://github.com/user-attachments/assets/6a5c9fe0-4422-4672-a714-1ece327089d3" />
+<img width="696" height="517" alt="image" src="https://github.com/user-attachments/assets/19a284f5-5c78-4cb8-ab0c-0aed82542c48" />
+
 ---
 
 ## 🔄 Adaptivni algoritam
@@ -96,6 +103,9 @@ Na ovaj način se:
 - postiže bolja ravnoteža protoka saobraćaja
 
 ---
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/00b5eab0-7db7-47e6-9123-4f8a8f340218" />
+
 
 ## ✅ Zaključci
 
